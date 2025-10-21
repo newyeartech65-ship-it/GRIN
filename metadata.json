@@ -1,0 +1,7 @@
+{
+  "name": "GRIN AI - Trading Assistant",
+  "description": "A futuristic, cyberpunk-themed AI trading chatbot for the Indian stock market. It provides real-time insights, trading ideas, and stock analysis through a conversational interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
